@@ -1,4 +1,4 @@
-def encrypt_caesar(plaintext):
+def ENCRYPT_caesar(plaintext):
     x = ''
     for i in plaintext:
         if (ord(i) > 64) and (ord(i) < 88):
