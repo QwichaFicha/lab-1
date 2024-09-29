@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37544d7b-5452-439e-bdc5-1bb9a66f6669" name="Changes" comment="Создал проект">
+    <list default="true" id="37544d7b-5452-439e-bdc5-1bb9a66f6669" name="Changes" comment="Прошел тесты">
+      <change afterPath="$PROJECT_DIR$/homework01/vigener.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +21,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "QwichaFicha"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/QwichaFicha/lab-1.git",
+    "accountId": "1fbd6106-d6f1-4770-b81f-4298b003c7e0"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -34,7 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/caesar",
+    "git-widget-placeholder": "feature/vigener",
     "settings.editor.selected.configurable": "pyconsole"
   }
 }]]></component>
@@ -66,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727629200628</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Прошел тесты">
+      <option name="closed" value="true" />
+      <created>1727630483515</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727630483515</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Создал проект" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создал проект" />
+    <MESSAGE value="Прошел тесты" />
+    <option name="LAST_COMMIT_MESSAGE" value="Прошел тесты" />
   </component>
 </project>
