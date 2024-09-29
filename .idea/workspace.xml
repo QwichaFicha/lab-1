@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37544d7b-5452-439e-bdc5-1bb9a66f6669" name="Changes" comment="Прошел тесты">
-      <change afterPath="$PROJECT_DIR$/homework01/vigener.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
