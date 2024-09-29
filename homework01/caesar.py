@@ -14,7 +14,7 @@ def ENCRYPT_caesar(plaintext):
 
     return ciphertext
 
-def decrypt_caesar(ciphertext):
+def DECRYPT_caesar(ciphertext):
     x = ''
     for i in ciphertext:
         if (ord(i) > 67) and (ord(i) < 91):
