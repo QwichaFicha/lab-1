@@ -5,3 +5,9 @@ def is_prime(n):
         if n % i == 0:
             return False
     return True
+
+def gcd(a, b):
+    if b == 0:
+        return a
+    else:
+        return gcd(b, a % b)
