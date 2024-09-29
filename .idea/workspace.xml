@@ -34,9 +34,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/caesar"
+    "git-widget-placeholder": "feature/caesar",
+    "settings.editor.selected.configurable": "pyconsole"
   }
 }]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myUseExistingConsole" value="true" />
+    <option name="myCommandQueueEnabled" value="true" />
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
